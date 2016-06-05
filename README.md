@@ -1,3 +1,7 @@
 # sql
-Some interesting sql scripts and functions that i create or come across
-- clean up a table with multiple redundant file loads using LEAD and partition (SQL Server 2008)
+## Some interesting sql scripts and functions that I create or come across
+
+File | Description
+--- | ----
+Clean_repeated_file_loads.sql | clean up a table with multiple redundant file loads using LEAD and partition (SQL Server 2008)
+
